@@ -1,6 +1,5 @@
 <div align="center">
   
-<a href="https://pronouns.cc/@buckzo">pronouns</a>
 
 <div align="center">
 
